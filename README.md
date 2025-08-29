@@ -20,8 +20,8 @@ Quiz Application
     ```
  3. Clone this repository:
     ```bash
-    git clone https://github.com/Ifeanyi57/Python-file_1.git
-    cd Python-file-1
+    git clone https://github.com/Ifeanyi57/Quiz-Project.git
+    cd Quiz-Project
     ```
 
  ## Usage
